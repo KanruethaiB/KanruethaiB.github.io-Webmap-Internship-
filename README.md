@@ -1,2 +1,2 @@
-# KanruethaiB.github.io-Webmap-Internship-
+# KanruethaiB-Webmap-Internship-
 WebmapProject-Internship
