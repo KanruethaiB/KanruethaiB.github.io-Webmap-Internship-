@@ -1,2 +1,2 @@
-# KanruethaiB-Webmap-Internship-
+# KanruethaiB-Webmap-Internship
 WebmapProject-Internship
